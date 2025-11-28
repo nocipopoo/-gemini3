@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 3.0 爆款视频封面工坊",
+  "description": "基于 Google Gemini 3.0 和 2.5 模型的智能视频封面生成工具，专为自媒体创作者设计。",
+  "requestFramePermissions": []
+}
